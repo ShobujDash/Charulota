@@ -11,7 +11,7 @@ const Header = () => {
     <div className="pt-20 px-2 md:hidden dark:text-white dark:bg-dark_dark">
       <div className="flex items-center">
         <h1 className="text-4xl font-semibold flex-1">
-          Daily Grocery <br /> Food
+          Daily Beauty <br /> Items
         </h1>
         <div className="">
           <CiSearch className="text-5xl" />
