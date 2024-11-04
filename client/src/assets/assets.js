@@ -6,6 +6,13 @@ import curi2 from "./curi2.jpg";
 import curi3 from "./curi3.jpg";
 import curi4 from "./curi4.jpg";
 
+import ankletIcon from "./ankletsIcon.png";
+import banglesIcon from "./banglesIcons.png";
+import necklessIcon from "./necklessIcon.png";
+
+// video
+import bannerVedio from "./vedio/bannervideo.mp4";
+
 export const assets = {
   logo,
   carulota,
@@ -13,4 +20,8 @@ export const assets = {
   curi2,
   curi3,
   curi4,
+  bannerVedio,
+  banglesIcon,
+  ankletIcon,
+  necklessIcon,
 };
