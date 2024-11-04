@@ -2,9 +2,13 @@ import React from 'react'
 import { assets } from '../../assets/assets';
 
 
-const Fruits = () => {
+const AllProducts
+ = () => {
   return (
     <div className="mt-4">
+
+      <h1 className='text-2xl font-semibold mb-4'>All Products  </h1>
+
       <div className="grid grid-cols-2 gap-x-2 gap-y-4 mb-24">
         <div className="shadow-lg">
           <div>
@@ -114,4 +118,5 @@ const Fruits = () => {
   );
 }
 
-export default Fruits
+export default AllProducts
+;
