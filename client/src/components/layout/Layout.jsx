@@ -25,6 +25,7 @@ const Layout = ({children}) => {
         toggleDarkMode={toggleDarkMode}
         darkMode={darkMode}
         toggleSidebar={toggleSidebar}
+        isSidebarOpen={isSidebarOpen}
       />
       {children}
       <BottomNavbar />
